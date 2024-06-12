@@ -29,7 +29,7 @@ AHRS 演算法將陀螺儀數據的積分結果與來自其他感測器的方位
 ## 下載 Fusion Project
 
 ```bash=
-git clone https://github.com/xioTechnologies/Fusion.git
+git clone https://github.com/EduCatCode/Fusion.git
 ```
 ## 下載並安裝 Anaconda (使用虛擬環境)
 
